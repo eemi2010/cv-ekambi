@@ -1,0 +1,14 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder
+    xmlns:ui="urn:ui:com.google.gwt.uibinder">
+
+    <div>
+        <div class="header">Wilhem B&uuml;chner Hochschule</div>
+        <div class="section">
+            <ul class="summary">
+                <li>2004-2010 Wilhem B&uuml;chner Hochschule: a German School of Engineering</li>
+                <li>Master’s Degree in Computer Science, specialized in information and commnunication management ("Dipl. Informatiker in Informations und Kommunikations -Management")</li>
+            </ul>
+        </div>
+    </div>
+</ui:UiBinder>

@@ -1,0 +1,16 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder
+    xmlns:ui="urn:ui:com.google.gwt.uibinder">
+
+    <div>
+        <div class="header">NTT Data Germany</div>
+        <div class="section">
+            <ul class="summary">
+                <li>I currently work for NTT Data as a technical consultant.</li>
+                <li>NTT Data Germany is a software service company, part of NTT Data Group.</li>
+                <li>I mostly work on big scale JEE applications</li>
+                <li>I also create GWT Tools to boost our team productivity</li>
+            </ul>
+        </div>
+    </div>
+</ui:UiBinder>

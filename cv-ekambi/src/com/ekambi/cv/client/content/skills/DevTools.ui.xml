@@ -1,0 +1,28 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder
+    xmlns:ui="urn:ui:com.google.gwt.uibinder">
+
+    <div>
+        <div class="header">Dev Tools</div>
+        <div class="section">
+            <span class="nicetag">Build</span> <span class="greytag">IDE</span> <span class="yellowtag">VCS</span> <span class="redtag">Hacker Tools</span> 
+            <ul class="needspace">
+              <li>Pretty good<br />
+                <span class="greytag">Eclipse</span>
+                <span class="redtag">Firebug</span>
+              </li>
+
+              <li>Played with<br />
+              <span class="nicetag">Maven</span>
+                <span class="greytag">Netbeans</span>
+                <span class="greytag">Visual Studio</span>
+                <span class="greytag">IntelliJ IDEA</span>
+              </li>
+              <li>Some time ago<br />
+                <span class="nicetag">Ant</span>
+                <span class="yellowtag">SVN</span>
+              </li>
+            </ul>
+        </div>
+    </div>
+</ui:UiBinder>

@@ -1,0 +1,23 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder
+    xmlns:ui="urn:ui:com.google.gwt.uibinder">
+    
+    <div>
+        <div class="header">Frameworks</div>
+        <div class="section">
+            
+            <ul class="summary">
+              <!-- li>Android</li-->
+               <li>Spring </li>
+               <li>Hibernate</li>
+               <li>GWT</li>
+                <li>Titanium Mobile and Desktop</li>
+               <li>Apache Flex + Adobe AIR</li>
+               <li>Ruby On Rails</li>
+               <li>Ext JS</li>
+               <li>Sencha Touch</li>
+               <li>Java Server Faces</li>
+            </ul>
+        </div>
+    </div>
+</ui:UiBinder>

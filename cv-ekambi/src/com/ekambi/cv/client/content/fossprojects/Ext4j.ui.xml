@@ -1,0 +1,18 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder
+    xmlns:ui="urn:ui:com.google.gwt.uibinder">
+
+    <div>
+        <div class="header">Ext4j</div>
+        <div class="section">
+            <ul class="summary">
+                <li>Hosted on GitHub: <a href="https://github.com/eemi2010/ext4j">Ext4j</a></li>
+                <li>A Java API for Sencha's EXT JS library</li>
+                <li>Leverages GWT and Ext JS</li>
+                <li>Boost developers productivity by bringing the powerfull Java ecosystem to EXT JS development</li>
+                <li>GWT UI Binder support for Ext JS</li>
+                <li>TODO: Add Sample code</li>
+            </ul>
+        </div>
+    </div>
+</ui:UiBinder>
